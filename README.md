@@ -1,6 +1,6 @@
-# Aspect sentiment quadruple extraction dataset
+# Aspect Sentiment Quadruple Extraction Dataset
 ## Task Description
-Aspect sentiment quadruple extration (ASQE) is the task of extracting the quadruples of aspect, opinion, category, polarity. 
+Aspect Sentiment Quadruple Extration (ASQE) is the task of extracting the quadruples of aspect, opinion, category, polarity. 
 
 For example:  
 
